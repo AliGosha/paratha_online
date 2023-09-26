@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372140469373",
+    "project_id": "paratha-online",
+    "storage_bucket": "paratha-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372140469373:android:5652f2b1e1302749f1d514",
+        "android_client_info": {
+          "package_name": "com.example.paratha_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuSdjGi8hZOMoZzsQuZvn4jpWb1f6HGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
